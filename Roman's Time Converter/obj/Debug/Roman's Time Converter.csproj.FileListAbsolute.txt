@@ -1,0 +1,30 @@
+//Mac/Home/Documents/Roman's Time Converter/bin/Debug/Roman's Time Converter.exe.config
+//Mac/Home/Documents/Roman's Time Converter/bin/Debug/Roman's Time Converter.exe
+//Mac/Home/Documents/Roman's Time Converter/bin/Debug/Roman's Time Converter.pdb
+//Mac/Home/Documents/Roman's Time Converter/obj/Debug/Roman's Time Converter.csproj.AssemblyReference.cache
+//Mac/Home/Documents/Roman's Time Converter/obj/Debug/Roman_s_Time_Converter.Form1.resources
+//Mac/Home/Documents/Roman's Time Converter/obj/Debug/Roman_s_Time_Converter.Properties.Resources.resources
+//Mac/Home/Documents/Roman's Time Converter/obj/Debug/Roman's Time Converter.csproj.GenerateResource.cache
+//Mac/Home/Documents/Roman's Time Converter/obj/Debug/Roman's Time Converter.csproj.CoreCompileInputs.cache
+//Mac/Home/Documents/Roman's Time Converter/obj/Debug/Roman's Time Converter.exe
+//Mac/Home/Documents/Roman's Time Converter/obj/Debug/Roman's Time Converter.pdb
+/Users/romangiannuzzi/Documents/Roman's Time Converter/bin/Debug/Roman's Time Converter.exe.config
+/Users/romangiannuzzi/Documents/Roman's Time Converter/bin/Debug/Roman's Time Converter.exe
+/Users/romangiannuzzi/Documents/Roman's Time Converter/bin/Debug/Roman's Time Converter.pdb
+/Users/romangiannuzzi/Documents/Roman's Time Converter/obj/Debug/Roman's Time Converter.csproj.AssemblyReference.cache
+/Users/romangiannuzzi/Documents/Roman's Time Converter/obj/Debug/Roman_s_Time_Converter.Form1.resources
+/Users/romangiannuzzi/Documents/Roman's Time Converter/obj/Debug/Roman_s_Time_Converter.Properties.Resources.resources
+/Users/romangiannuzzi/Documents/Roman's Time Converter/obj/Debug/Roman's Time Converter.csproj.GenerateResource.cache
+/Users/romangiannuzzi/Documents/Roman's Time Converter/obj/Debug/Roman's Time Converter.csproj.CoreCompileInputs.cache
+/Users/romangiannuzzi/Documents/Roman's Time Converter/obj/Debug/Roman's Time Converter.exe
+/Users/romangiannuzzi/Documents/Roman's Time Converter/obj/Debug/Roman's Time Converter.pdb
+\\Mac\Home\Documents\Roman's Time Converter\bin\Debug\Roman's Time Converter.exe.config
+\\Mac\Home\Documents\Roman's Time Converter\bin\Debug\Roman's Time Converter.exe
+\\Mac\Home\Documents\Roman's Time Converter\bin\Debug\Roman's Time Converter.pdb
+\\Mac\Home\Documents\Roman's Time Converter\obj\Debug\Roman's Time Converter.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Roman's Time Converter\obj\Debug\Roman_s_Time_Converter.Form1.resources
+\\Mac\Home\Documents\Roman's Time Converter\obj\Debug\Roman_s_Time_Converter.Properties.Resources.resources
+\\Mac\Home\Documents\Roman's Time Converter\obj\Debug\Roman's Time Converter.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Roman's Time Converter\obj\Debug\Roman's Time Converter.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Roman's Time Converter\obj\Debug\Roman's Time Converter.exe
+\\Mac\Home\Documents\Roman's Time Converter\obj\Debug\Roman's Time Converter.pdb
